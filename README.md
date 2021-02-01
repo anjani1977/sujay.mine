@@ -37,7 +37,7 @@
             <p class="mb-8 leading-relaxed">I complete Minecraft in just 30  min, I killed Ender Dragon in 2 min. So you can watch me playing Minecraft at youtube,Thank you for your Support.</p>
             <div class="flex justify-center">
               <button class="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Minecraft</button>
-              <button class="ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">youtube</https://youtube.com/channel/UCDgllKWKPGr09cyY2ElsQAQ>
+              <button class="ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">youtube</button>
             </div>
           </div>
         </div>
