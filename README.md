@@ -63,7 +63,7 @@
             </div>
             <div class="p-4 sm:w-1/2 lg:w-1/4 w-1/2">
               <h2 class="title-font font-medium text-3xl text-gray-900">1</h2>
-              <p class="leading-relaxed">Gmaing Channel</p>
+              <p class="leading-relaxed">Gaming Channel</p>
             </div>
           </div>
           <div class="lg:w-1/2 sm:w-1/3 w-full rounded-lg overflow-hidden mt-6 sm:mt-0">
